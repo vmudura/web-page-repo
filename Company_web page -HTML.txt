@@ -1,0 +1,30 @@
+<HTML>
+
+<HEAD>
+
+<TITLE>Brocadero</TITLE>
+
+<HEAD>
+
+<BODY BGCOLOUR="FFFFFF">
+
+<CENTER><IMG SRC="images/logo.jpge" ALIGN="BOTTOM" height="250" width="400">
+</CENTER>
+
+<HR>
+
+<H1>This is a Header<H1>
+
+<H2>This is a Meadium Header</H2>
+
+<p> This is a new paragraph!
+
+<p> <B>Tis is a new paragraph!</B>
+
+<BR> <B><I>This is a new sentence itjout a paragraph break , in bold italics,</1></B>
+
+<HR>
+
+<BODY>
+
+<HTML>
